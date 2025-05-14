@@ -1,0 +1,16 @@
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
+.cta-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #f17b4c;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.contact {
+  margin-top: 1rem;
+}
